@@ -1,4 +1,8 @@
-### Hi there 👋
+# Howdy Howdy, I am gordanNotFreeman
+
+### I am a student at Cochise College participating in Tech Club and VRCLUB activities, i'm looking forward in collaborating and learning how to program more efficiently!
+
+### [Click this hyperlink to view previous projects/activites!](https://www.youtube.com/watch?v=Yb6dZ1IFlKc) 
 
 <!--
 **gordonNotFreeman/gordonNotFreeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
